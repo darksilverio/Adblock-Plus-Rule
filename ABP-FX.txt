@@ -188,7 +188,6 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 ||gyyx.cn/$third-party
 ||gzktpf.com/
 ||hascosafety.com^
-||hinet.net^
 ||hk9600.com/
 ||hnol.net/
 ||hr41.cn^
